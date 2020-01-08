@@ -46,7 +46,6 @@ namespace LongestPalindromeCsharp
             }
 
             return right - left - 1;
-
         }
 
 

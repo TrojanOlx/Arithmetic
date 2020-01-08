@@ -1,0 +1,3 @@
+﻿  Convert.cpp
+E:\EightyPercent\Arithmetic\CPP\Arithmetic\Convert\Convert.cpp(12,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Convert.vcxproj -> E:\EightyPercent\Arithmetic\CPP\Arithmetic\x64\Debug\Convert.exe

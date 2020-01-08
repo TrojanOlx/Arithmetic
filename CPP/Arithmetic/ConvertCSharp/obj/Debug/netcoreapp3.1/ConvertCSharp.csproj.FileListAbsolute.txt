@@ -1,0 +1,11 @@
+E:\EightyPercent\Arithmetic\CPP\Arithmetic\ConvertCSharp\bin\Debug\netcoreapp3.1\ConvertCSharp.exe
+E:\EightyPercent\Arithmetic\CPP\Arithmetic\ConvertCSharp\bin\Debug\netcoreapp3.1\ConvertCSharp.deps.json
+E:\EightyPercent\Arithmetic\CPP\Arithmetic\ConvertCSharp\bin\Debug\netcoreapp3.1\ConvertCSharp.runtimeconfig.json
+E:\EightyPercent\Arithmetic\CPP\Arithmetic\ConvertCSharp\bin\Debug\netcoreapp3.1\ConvertCSharp.runtimeconfig.dev.json
+E:\EightyPercent\Arithmetic\CPP\Arithmetic\ConvertCSharp\bin\Debug\netcoreapp3.1\ConvertCSharp.dll
+E:\EightyPercent\Arithmetic\CPP\Arithmetic\ConvertCSharp\bin\Debug\netcoreapp3.1\ConvertCSharp.pdb
+E:\EightyPercent\Arithmetic\CPP\Arithmetic\ConvertCSharp\obj\Debug\netcoreapp3.1\ConvertCSharp.csprojAssemblyReference.cache
+E:\EightyPercent\Arithmetic\CPP\Arithmetic\ConvertCSharp\obj\Debug\netcoreapp3.1\ConvertCSharp.AssemblyInfoInputs.cache
+E:\EightyPercent\Arithmetic\CPP\Arithmetic\ConvertCSharp\obj\Debug\netcoreapp3.1\ConvertCSharp.AssemblyInfo.cs
+E:\EightyPercent\Arithmetic\CPP\Arithmetic\ConvertCSharp\obj\Debug\netcoreapp3.1\ConvertCSharp.dll
+E:\EightyPercent\Arithmetic\CPP\Arithmetic\ConvertCSharp\obj\Debug\netcoreapp3.1\ConvertCSharp.pdb
